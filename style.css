@@ -1,0 +1,17 @@
+body{
+	background-color: black}
+
+h1{
+	color: blue;}
+
+.center{
+	text-align: center;}
+
+p{
+	color: lightgreen;
+	font-family: sans-serif; 
+	font-size: 20px;}
+
+#penting {
+	text-align: center;
+	color: red}
